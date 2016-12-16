@@ -2,13 +2,13 @@
 
 > Simple Motorcycle.js Router Example
 
-<!-- Write a short summary about your library here -->
+## Try it out
 
-## Let me have it!
 ```sh
-npm install --save motorcycle-router-example
+git clone https://github.com/tylors/motorcycle-router-example
+cd motorcycle-router-example
+npm install
+npm start
 ```
 
-## API
-
-<!-- Describe your API here -->
+Navigate to `http://localhost:5050`
